@@ -8,6 +8,7 @@ body {
 
 .top-header {
     position: fixed;
+    width: 100%;
     background-color: #333;
     padding: 10px 20px;
     border-bottom:2px solid #000;
