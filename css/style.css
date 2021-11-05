@@ -1,5 +1,7 @@
+/* Font Imports */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
 
+/* General */
 body {
     background-color: #1c1d25;
     color: #fff;
@@ -30,3 +32,27 @@ h1 {
     font-family: 'Open Sans', sans-serif;
     font-size: 62px;
 }
+
+/* Navigation */
+.navi ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .navi li {
+    display: inline;
+    float: right;
+  }
+
+  .navi li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline;
+  }
+  
+  .navi  li a:hover {
+   color: orange;
+  }
