@@ -15,7 +15,7 @@ body {
 .top-header {
     position: fixed;
     width: 100%;
-    padding: 10px;
+    padding: 10px 40px;
 }
 
 .logo img {
@@ -27,7 +27,7 @@ body {
 
 .main-content {
     width: 800px;
-    padding: 200px 20px 0 20px;
+    padding: 200px 20px 0 60px;
     min-height: 400px;
 }
 
