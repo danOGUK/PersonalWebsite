@@ -27,7 +27,7 @@ body {
 
 .main-content {
     width: 800px;
-    padding: 200px 20px 0 60px;
+    padding: 200px 20px 0 80px;
     min-height: 400px;
 }
 
@@ -38,7 +38,6 @@ h1 {
 .sub-heading {
     font-size: 18px;
     text-decoration: underline;
-    
 }
 
 /* Navigation */
