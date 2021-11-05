@@ -41,6 +41,7 @@ img.cont-logo{
     width: 400px;
     height: auto;
     opacity: 0.5;
+    object-fit: cover;
 }
 
 /* Navigation */
