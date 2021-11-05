@@ -29,10 +29,6 @@ body {
     width: 800px;
     padding: 200px 20px 0 20px;
     min-height: 400px;
-    background-image: url('images/logo.png');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: 400px;
 }
 
 h1 {
