@@ -26,15 +26,12 @@ body {
 }
 
 .main-content {
-    width: 1024px;
+    width: 1366px;
     padding: 200px 20px 0 20px;
     min-height: 400px;
     text-align: center;
 }
 
-h1 {
-    font-size: 28px;
-}
 
 /* Navigation */
 .navi ul {
