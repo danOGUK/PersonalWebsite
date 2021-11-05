@@ -32,6 +32,15 @@ body {
     text-align: center;
 }
 
+h1.hero-hd1 {
+z-index:1;
+}
+
+.cont-logo {
+    z-index:0;
+    width: 200px;
+    height: auto;
+}
 
 /* Navigation */
 .navi ul {
