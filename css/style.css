@@ -67,25 +67,9 @@ h1 {
     text-decoration: none;
     transition: ease-in-out 0.3s;
   }
-
-  .navi a.middle:before {
-    content: "";
-    position: absolute;
-    width: 50%;
-    height: 1px;
-    bottom: 0;
-    left: 0;
-    background-color: #9e44b4;
-    visibility: hidden;
-    transform: scaleX(0);
-    transition: all 0.3s ease-in-out;
-  }
   
   .navi li a:hover {
    color: #9e44b4;
+   text-decoration: underline;
   }
 
-  .navi a.middle:hover:before {
-    visibility: visible;
-    transform: scaleX(1);
-  }
