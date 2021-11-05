@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+
 body {
     background-color: #1c1d25;
     color: #fff;
@@ -20,11 +22,11 @@ body {
 
 .main-content {
     width: 800px;
-    padding: 80px 20px;
+    padding: 160px 20px 0 20px;
     min-height: 500px;
 }
 
 h1 {
-    font-family: League Spartan, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 62px;
 }
