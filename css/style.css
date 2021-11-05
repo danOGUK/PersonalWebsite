@@ -27,12 +27,12 @@ body {
 
 .main-content {
     width: 800px;
-    padding: 200px 20px 0 80px;
+    padding: 200px 20px 0 40px;
     min-height: 400px;
 }
 
 h1 {
-    font-size: 32px;
+    font-size: 24px;
 }
 
 .sub-heading {
