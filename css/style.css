@@ -58,7 +58,8 @@ h1 {
     color: white;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: underline;
+    text-decoration: none;
+    transition: ease-in-out 0.3s;
   }
   
   .navi  li a:hover {
