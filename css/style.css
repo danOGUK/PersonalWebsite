@@ -21,8 +21,7 @@ body {
     display: inline-block;
     width: 80px;
     height: 80px;
-    float:left;
-
+    position: relative;
 }
 
 .main-content {
@@ -41,6 +40,9 @@ h1 {
     margin: 0;
     padding: 0;
     display: inline-block;
+    position: absolute;
+    right:0;
+    top: 20px;
   }
 
   .navi li {
