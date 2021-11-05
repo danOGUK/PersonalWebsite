@@ -14,8 +14,8 @@ body {
 
 .logo img {
     display: block;
-    height: 50px;
-    width: 50px;
+    width: 100px;
+    height: auto;
 }
 
 .main-content {
