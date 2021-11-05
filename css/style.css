@@ -36,14 +36,6 @@ h1.hero-hd1 {
 z-index:1;
 }
 
-img.cont-logo{
-    z-index:0;
-    width: 400px;
-    height: auto;
-    opacity: 0.5;
-    object-fit: cover;
-}
-
 /* Navigation */
 .navi ul {
     list-style-type: none;
