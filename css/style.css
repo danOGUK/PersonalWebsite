@@ -25,3 +25,8 @@ body {
     padding: 20px 40px;
     min-height: 400px;
 }
+
+h1 {
+    font-family: League Spartan, Helvetica, Arial, sans-serif;
+    font-size: 62px;
+}
