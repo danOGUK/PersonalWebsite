@@ -64,3 +64,9 @@ body {
    color: #9e44b4;
   }
 
+  /* Navigation Icons */
+  .social-icons {
+      width: 20px;
+      height: auto;
+  }
+
