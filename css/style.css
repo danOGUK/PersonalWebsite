@@ -68,9 +68,11 @@ body {
   .social-icons {
       width: 24px;
       height: auto;
-      opacity: 0.8;
+      opacity: 0.7;
+      transition: ease-in-out 0.3s;
   }
 
   .social-icons:hover {
       opacity: 1;
+      box-shadow: 0 0 10px #9e44b4;
   }
